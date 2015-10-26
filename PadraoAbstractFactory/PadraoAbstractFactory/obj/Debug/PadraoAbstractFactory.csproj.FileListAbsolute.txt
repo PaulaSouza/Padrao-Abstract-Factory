@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\bin\Debug\PadraoAbstractFactory.exe.config
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\obj\Debug\PadraoAbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\bin\Debug\PadraoAbstractFactory.exe
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\bin\Debug\PadraoAbstractFactory.pdb
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\obj\Debug\PadraoAbstractFactory.exe
+C:\Users\usuario\Desktop\PadraoAbstractFactory\PadraoAbstractFactory\obj\Debug\PadraoAbstractFactory.pdb
